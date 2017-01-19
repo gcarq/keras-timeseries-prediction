@@ -1,0 +1,7 @@
+git+git://github.com/Theano/Theano@master#egg=theano
+git+git://github.com/fchollet/keras@master#egg=keras
+matplotlib==1.5.3
+pandas==0.19.2
+scikit-learn==0.18.1
+tqdm==4.11.0
+numpy==1.12.0
